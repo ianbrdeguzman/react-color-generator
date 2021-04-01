@@ -7,3 +7,4 @@ Check it out [here!](https://ianbrdeguzman.github.io/react-color-generator/)
 -   HTML5
 -   CSS3
 -   Reactjs
+-   [Values.js](https://noeldelgado.github.io/values.js/)
